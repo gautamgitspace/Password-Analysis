@@ -1,3 +1,4 @@
+#Password Strength Analysis experiment using Shanon Entropy
 cse664spring16hw3pwds.gz extracts to - pwds300 and will be used for all processing.
 
 Q1. 
